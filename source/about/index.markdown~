@@ -2,13 +2,15 @@
 layout: page
 title: "about"
 date: 2014-05-13 21:14
-comments: true
-sharing: true
-footer: true
+comments: false
+sharing: false
+footer: false
 ---
 
 {% img left http://i.imgur.com/HbHHePI.png 200 200 Joe %}
-What's good?  I'm Joe Hermann, an undergraduate studying computer science and Spanish at the [University of Michigan].  Technology fascinates me,and I want to be able to use it to [build new and exicting things].  I like other things too!  I'm passionate about [hip hop music and culture], [books], and drinking tea (among other things).  Feel free to add me on [facebook], or send me an [email].
+What's good?  I'm Joe Hermann, an undergraduate studying computer science and Spanish at the [University of Michigan].  Technology fascinates me,and I want to be able to use it to [build new and exicting things].  I like other things too!  I'm passionate about [hip hop music and culture], [books], and drinking tea (among other things).  Feel free to add me on [facebook], or send me an [email].  
+
+Oh, and the beautiful drawing of my face is courtesy of the extremely talented [Lulu Tang](http://luluspice.com/)!
 
 [University of Michigan]: http://umich.edu
 [build new and exicting things]: https://github.com/thebroda
