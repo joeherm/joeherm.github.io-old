@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://thebroda.github.io/sitemap.xml 
