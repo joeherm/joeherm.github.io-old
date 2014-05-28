@@ -3,7 +3,7 @@ layout: post
 title: "Consumerist Trip To J Town"
 date: 2014-05-18 20:57:01 -0700
 comments: true
-categories: true
+categories: sf
 ---
 
 Admittedly, I didn't do anything interesting today.  I woke up and explored a little more of the NoPa area, expanding my knowledge of my immediate surroundings.  The Victorian architecture and rolling hills hold a strong allure after so many years spent in the Midwest.  As I mentioned in the previous post, today was the Bay to Breakers run.  The alcohol was flowing and there were countless people dressed in crazy costumes (à la Mardi Gras).
