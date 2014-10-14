@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: general | yo, it's joe]]></title>
+  <link href="http://joehermann.com/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://joehermann.com/"/>
+  <updated>2014-10-14T11:50:56-04:00</updated>
+  <id>http://joehermann.com/</id>
+  <author>
+    <name><![CDATA[Joe Hermann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rebooting]]></title>
+    <link href="http://joehermann.com/blog/2014/09/28/rebooting/"/>
+    <updated>2014-09-28T10:51:24-04:00</updated>
+    <id>http://joehermann.com/blog/2014/09/28/rebooting</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a while since I&rsquo;ve updated this blog.  The school year has started back up after finishing a good summer in San Francsico.  Going forward I&rsquo;ll be trying to take the effort of blogging a little more seriously, hopefully delivering some interesting content on literature, technology, philosophy, etcetera.  In the spirit of starting fall in Ann Arbor, here&rsquo;s a wonderful poem from poet Donald Hall:</p>
+
+<blockquote><p>Kicking the leaves, October, as we walk home together</p>
+
+<p>from the game, in Ann Arbor,</p>
+
+<p>on a day the color of soot, rain in the air;</p>
+
+<p>I kick at the leaves of maples,</p>
+
+<p>reds of seventy different shades, yellow</p>
+
+<p>like old paper; and poplar leaves, fragile and pale;</p>
+
+<p>and elm leaves, flags of a doomed race.</p>
+
+<p>I kick at the leaves, making a sound I remember</p>
+
+<p>as the leaves swirl upward from my boot,</p>
+
+<p>and flutter; and I remember</p>
+
+<p>Octobers walking to school in Connecticut,</p>
+
+<p>wearing corduroy knockers that swished</p>
+
+<p>with a sound like leaves; and a Sunday buying</p>
+
+<p>a cup of cider at a roadside stand</p>
+
+<p>on a dirt road in New Hampshire; and kicking the leaves,</p>
+
+<p>autumn 1955 in Massachusetts, knowing</p>
+
+<p>my father would die when the leaves were gone.</p></blockquote>
+
+<p>Excerpt from the poem <i><a href="http://www.wildriverreview.com/2/2-poetry_kicking.html">Kicking the Leaves</a></i> by <a href="http://en.wikipedia.org/wiki/Donald_Hall">Donald Hall</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Obligatory First Post]]></title>
+    <link href="http://joehermann.com/blog/2014/05/11/first-post/"/>
+    <updated>2014-05-11T20:10:41-04:00</updated>
+    <id>http://joehermann.com/blog/2014/05/11/first-post</id>
+    <content type="html"><![CDATA[<p>Just set up this blog via Octopress.  So it begins.  I&rsquo;ll be using this to catalog my adventures, projects, and thoughts.  Enjoy!</p>
+]]></content>
+  </entry>
+  
+</feed>
