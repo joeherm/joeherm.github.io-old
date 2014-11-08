@@ -13,7 +13,7 @@ What's good?  I'm Joe Hermann, an undergraduate studying computer science and Sp
 Oh, and the beautiful drawing of my face is courtesy of the extremely talented [Lulu Tang](http://luluspice.com/)!
 
 [University of Michigan]: http://umich.edu
-[build new and exicting things]: https://github.com/thebroda
+[build new and exicting things]: https://github.com/joeherm
 [facebook]: https://www.facebook.com/joe.hermann
 [books]: https://www.goodreads.com/user/show/9251989-joe
 [email]: mailto:joeherm@umich.edu
