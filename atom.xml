@@ -4,7 +4,7 @@
   <title><![CDATA[yo, it's joe]]></title>
   <link href="http://joehermann.com/atom.xml" rel="self"/>
   <link href="http://joehermann.com/"/>
-  <updated>2014-11-06T17:49:21-05:00</updated>
+  <updated>2014-11-08T13:05:45-05:00</updated>
   <id>http://joehermann.com/</id>
   <author>
     <name><![CDATA[Joe Hermann]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Book Review: The Shape of Content]]></title>
+    <link href="http://joehermann.com/blog/2014/11/08/book-review-the-shape-of-content/"/>
+    
+    <updated>2014-11-08T12:54:17-05:00</updated>
+    <id>http://joehermann.com/blog/2014/11/08/book-review-the-shape-of-content</id>
+    
+    <content type="html"><![CDATA[<p><img class="center" src="http://joehermann.com/images/the_shape_of_content.jpg" width="146" height="250" title="The Shape Of Content" alt="Cover of Book">
+I just finished this book last week on the recommendation of a friend.  It&rsquo;s a book that I really enjoyed reading.  I have a soft-spot for essays, which I consider one of the purest literary forms.  Having a book full of essays by someone so likable and immediate as Ben Shahn makes this an easy read.  Hearing someone accomplished talk about their craft with love and conviction is always enjoyable, especially when they can do so with a compelling narrative style (as Shahn does).  His thoughts are wide-reaching and open up questions on the value/nature of criticism, the relationship between art and academia, and the process of creation.  I haven&rsquo;t read too much on art, but this book makes me want to read more.  There are some excellent thoughts in here, but even in the plainer moments the essays evoke that milky-nostalgia of the creative process.  Anyone who has tried to create will appreciate <em>The Shape of Content</em> and should give it a read.</p>
+]]></content>
+    
+  </entry>
   
   <entry>
     
