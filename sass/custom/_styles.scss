@@ -7,7 +7,7 @@ html {
 
 body {
 	font-family: 'Helvetica Neue', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: lighter;
 	color: #333;
 	max-width: 750px;
@@ -159,6 +159,10 @@ article {
 
 	a, a:visited {
 		color: #1863A1;
+	}
+
+	blockquote {
+		font-size: 1em;
 	}
 }
 
