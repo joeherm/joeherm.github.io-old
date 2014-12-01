@@ -15,6 +15,7 @@ Crazy week.  Here's a breakdown of where my head was at.
 + Ferguson
     + ["In Defense of the Ferguson Riots"](https://www.jacobinmag.com/2014/08/in-defense-of-the-ferguson-riots/) by *Robert Stephens II*
     + ["We Must Be the New Guards: Open Letter to White Poets"](http://drunkinamidnightchoir.com/2014/11/25/we-must-be-the-new-guards-open-letter-to-the-white-poets-by-danez-smith/) and ["alternate names for black boys"](http://www.poetryfoundation.org/poetrymagazine/poem/247334) by *Danez Smith*
+    + ["Black Friday, Or the Circulation of Commodities"](http://thenewinquiry.com/features/black-friday-or-the-circulation-of-commodities/) by *Sam Lavigne*
 + [_The Anti-Capitalism Reader_](https://www.goodreads.com/review/show/1101612504) edited by *Joel Schalit*
     + ["Anti-Capitalist Taste"](http://books.google.com/books?id=8GlSVoiOdzwC&pg=PA293&lpg=PA293) by *Charlie Bertsch*
     + ["Yes, Information Wants To Be Free, but How's That Going To Happen?: Strategies for Freeing Intellectual Property"](http://www.nettime.org/Lists-Archives/nettime-l-0401/msg00089.html) by  *Rick Prelinger*
